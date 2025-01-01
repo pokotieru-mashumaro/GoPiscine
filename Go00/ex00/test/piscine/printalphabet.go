@@ -1,8 +1,6 @@
 package piscine
 
-import (
-	"ex00/vendor/ft"
-)
+import "ex00/test/ft"
 
 func PrintAlphabet() {
 	for c := 'a'; c <= 'z'; c++ {
